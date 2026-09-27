@@ -1,6 +1,7 @@
 # pesquisa  de opinião
 💻<br>
  Este projeto foi desenvolvido para o curso Técnico em Desenvolvimento de      Sistemas da ETEC. No cenário fictício, o objetivo era criar um sistema de pesquisa no qual os usuários inserem seu nome, idade e avaliação para uma empresa. O propósito principal foi aplicar e demonstrar os conceitos aprendidos sobre as estruturas de repetição for e while, evidenciando o funcionamento dos loops e a validação de dados na prática.<br>
+ o programa se repete apenas 10 vezes
 📈<br>
  🛠️programas usados e estudados:
 <div style="display: inline_block;">
